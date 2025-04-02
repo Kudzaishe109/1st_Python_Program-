@@ -241,7 +241,7 @@ capitals = {'USA' : 'DC',
 #     k-=1
 
 # count = 0
-# while count < 5:
+# while count < 5
 #     if count == 3:
 #         count = count + 1
 #         continue
